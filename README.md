@@ -1,5 +1,7 @@
 # MECP — Mesh Emergency Communication Protocol
 
+S'ha inclòs el català.
+
 **Cross-language emergency communication for LoRa mesh networks.**
 
 MECP is a structured text encoding that lets people who share no common spoken language exchange meaningful information over bandwidth-constrained radio links. It works like a multilingual phrasebook that happens to be machine-parseable.
