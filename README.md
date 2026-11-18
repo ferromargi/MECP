@@ -1,6 +1,6 @@
 # MECP — Mesh Emergency Communication Protocol
 
-S'ha inclòs el català.
+## **S'ha inclòs el català.**
 
 **Cross-language emergency communication for LoRa mesh networks.**
 
