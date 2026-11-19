@@ -8,7 +8,7 @@
 	"severities":{
 		"0":{
 			"local":"MAYDAY",
-			"label":"MAYDAY /  Perill de mort"
+			"label":"MAYDAY / Perill de mort"
 			},
 			"1":{
 				"local":"URGENT",
